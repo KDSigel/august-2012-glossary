@@ -12,7 +12,7 @@
 | jest  |     |     |     |  |
 | fetch  |     |     |     |  |
 | pool  |     |     |     |  |
-| promise  |     |     |     | https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise https://www.w3schools.com/Js/js_promise.asp |
+| promise  |  A JavaScript Promise object contains both the producing code and calls to the consuming code. A JavaScript Promise object can be Pending, Fulfilled, Rejected. The Promise object supports two properties: state and result.   |     |     | https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise https://www.w3schools.com/Js/js_promise.asp |
 | callback  |     |     |     |  |
 | net library  |     |     |     |  |
 | fs library  |     |     |     |  |
