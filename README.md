@@ -12,7 +12,7 @@
 | jest  |     |     |     |  |
 | fetch  |     |     |     |  |
 | pool  |     |     |     |  |
-| promise  |     |     |     |  |
+| promise  |     |     |     | https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise https://www.w3schools.com/Js/js_promise.asp |
 | callback  |     |     |     |  |
 | net library  |     |     |     |  |
 | fs library  |     |     |     |  |
