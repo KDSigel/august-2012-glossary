@@ -18,4 +18,8 @@
 | net library  |     |     |     |  |
 | fs library  |     |     |     |  |
 | why we write some tests using "it" and some using "test"  |     |     |     |  |
+| Accumulator |  |  |  |  |
+| API |  |  |  |  |
+| Constructor|  |  |  |  |
+| Class|  |  |  |  |
 | |  |  |  |  |
