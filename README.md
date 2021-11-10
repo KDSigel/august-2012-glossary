@@ -24,4 +24,4 @@
 | Class|  |  |  |  |
 | |  |  |  |  |
 
-bloop blop
+Technical Interview Questions: https://hondurancoder.github.io/Technical_Questions/
