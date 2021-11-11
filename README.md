@@ -22,6 +22,7 @@
 | API |  |  |  |  |
 | Constructor|  |  |  |  |
 | Class|  |  |  |  |
+| static |  |  |  |  |
 | |  |  |  |  |
 
 Technical Interview Questions: https://hondurancoder.github.io/Technical_Questions/
