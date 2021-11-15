@@ -24,5 +24,7 @@
 | Class|  |  |  |  |
 | static |  |  |  |  |
 | daemon |  |  |  |  |
+| imperitive/declaravite |  |  |  | https://www.freecodecamp.org/news/imperative-vs-declarative-programming-difference/  |
+|  |  |  |  |  |
 
 Technical Interview Questions: https://hondurancoder.github.io/Technical_Questions/
