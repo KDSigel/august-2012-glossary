@@ -23,6 +23,6 @@
 | Constructor|  |  |  |  |
 | Class|  |  |  |  |
 | static |  |  |  |  |
-| |  |  |  |  |
+| daemon |  |  |  |  |
 
 Technical Interview Questions: https://hondurancoder.github.io/Technical_Questions/
