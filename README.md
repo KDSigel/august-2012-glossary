@@ -8,7 +8,7 @@
 | Runtime system (environment)  |  This environment may address a number of issues including the management of application memory, how the program accesses variables, mechanisms for passing parameters between procedures, interfacing with the operating system, and otherwise.   |     |     |  |
 | JSON  |  JSON can be strings, numbers, booleans, null. arrays, and objects(most used). Typically an object with key-value pairs. JSON is valid javascript  |  Example is what one gets back from Pokemon api with Postman. ***Is it stored in arrays?***  ***why does is usually come as a string?*** |     |  |
 | parsing JSON  |  use JSON.parse to take JSON that is a string and make it into a javascript object   |     |     |  |
-| XML  |     |     |     |  |
+| XML/AJAX  |     |     |     |  |
 | postgress  |     |     |     |  |
 | jest  |     |     |     |  |
 | fetch  |     |     |     |  |
