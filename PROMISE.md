@@ -12,7 +12,9 @@ Allows you to set an operation running (e.g. the fetching of an image from the s
 
 Promises are asynchronous.
 
-## QUESTIONS
+## QUESTIONS - 
+
+what does async and await have to do with Promises?
 
 ## LINKS
 
