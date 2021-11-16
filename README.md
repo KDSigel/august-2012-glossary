@@ -24,7 +24,7 @@
 | Class|  |  |  |  |
 | static |  |  |  |  |
 | daemon |  |  |  |  |
-| imperitive/declaravite |  |  |  | https://www.freecodecamp.org/news/imperative-vs-declarative-programming-difference/  |
-| react |  |  |  |  |
+| imperative  | Imperative programming is providing step by step instructions the computer must follow to produce the desired result. | An example would be using a for loop to push individual values into an empty array, thereby defining the individual steps to create the new array. | |  |
+| declarative | Declarative programming is giving the computer commands describing what should be done, instead of how it should be done.  | An example would be using a .map array method to create a new array. This tells the computer what elements in the new array should look like, but it takes care of assembling the array. |  |  |
 
 Technical Interview Questions: https://hondurancoder.github.io/Technical_Questions/
