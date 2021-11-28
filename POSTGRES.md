@@ -1,4 +1,4 @@
-# POSTGRES
+# POSTGRES - a relational database that uses SQL (Structured Query Language).
 
 ## DEFINITION
 
