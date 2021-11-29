@@ -8,6 +8,9 @@
   - comments
   - questions
   - links to resources on the subject
+### * unfinished entries, or entries with unanswered questions.
+
+___
 
 ## Technical Interview Questions
 
